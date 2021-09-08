@@ -1,5 +1,7 @@
 # Signs-of-Ageing-using-Computer-Vision
  A model to classify &amp; localize different signs of ageing such as puffy eyes, wrinkles, dark spots etc. on the face.
+ 
+The project requires knowledge of various domains. Use image processing techniques to process the image as per requirements. The model preferred to work upon is EfficientNet which will detect signs of ageing like puffy eyes, wrinkles, dark spots on the image. It should overlay bounding boxes around detected ageing signs.
 
 ML-MAJOR_APRIL_Ageing
 
